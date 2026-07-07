@@ -1,0 +1,7 @@
+name = "chargeback-handler"
+version = "0.1.0"
+description = "Chargeback handler"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
